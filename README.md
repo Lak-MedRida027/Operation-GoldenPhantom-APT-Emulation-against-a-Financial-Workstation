@@ -543,7 +543,6 @@ To connect every concept rather than treat the steps in isolation, the kill chai
 ├── Mohammed_Rida_Task21_Report.pdf    # Full 36-page LaTeX report
 ├── KG/                                # Obsidian knowledge graph + attack-workflow diagram
 └── Screenshots/                       # Evidence screenshots + investigation cover image
-    └── investigation.png              # README cover banner
 ```
 
 ---
