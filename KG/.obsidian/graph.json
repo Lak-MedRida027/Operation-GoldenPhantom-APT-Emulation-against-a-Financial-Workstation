@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#technique",
+      "color": {
+        "a": 1,
+        "rgb": 13139992
+      }
+    },
+    {
+      "query": "tag:#ioc",
+      "color": {
+        "a": 1,
+        "rgb": 3383154
+      }
+    },
+    {
+      "query": "tag:#tool",
+      "color": {
+        "a": 1,
+        "rgb": 11813937
+      }
+    },
+    {
+      "query": "tag:#actor",
+      "color": {
+        "a": 1,
+        "rgb": 11614624
+      }
+    },
+    {
+      "query": "tag:#host",
+      "color": {
+        "a": 1,
+        "rgb": 1341596
+      }
+    },
+    {
+      "query": "tag:#infra",
+      "color": {
+        "a": 1,
+        "rgb": 1341596
+      }
+    },
+    {
+      "query": "tag:#evidence",
+      "color": {
+        "a": 1,
+        "rgb": 15910733
+      }
+    },
+    {
+      "query": "tag:#moc",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.9375,
+  "lineSizeMultiplier": 1.5546875,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.11077395735514847,
+  "close": true
+}
